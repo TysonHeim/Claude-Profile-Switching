@@ -1,0 +1,6 @@
+{
+  "memory": {
+    "command": "npx",
+    "args": ["@anthropic/mcp-memory@latest"]
+  }
+}

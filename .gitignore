@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Generated MCP config (output of activate-profile.js)
+.mcp.json
