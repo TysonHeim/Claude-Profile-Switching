@@ -158,4 +158,4 @@ When you activate multiple profiles, resources are combined. If both profiles in
 
 ## Credits
 
-Created by Tyson Heim and Rick Moore. The original profile switching concept and activate-profile.js script were co-developed for managing Claude Code skills across projects.
+Original skill profile switching concept and activate-profile.js by Rick Moore. Expanded to support agents, commands, and MCP server configs by Tyson Heim.
